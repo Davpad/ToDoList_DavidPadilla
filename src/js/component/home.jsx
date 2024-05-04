@@ -12,7 +12,7 @@ const Home = () => {
 	// console.log(tasks);
 
 	function vadersToDo() {
-		const vadersTasks = ["Find Death Star plans", "Fix the gap in Death Star", "Stormtrooper's shooting lessons", "Eradicate wookies", "Family therapy with Leia and Luke", "Seize Millennium Falcon", "Find Yoda", "Find Obi Wan", "Have Solo arrested for speeding", "Give Lando a bigger brive"];
+		const vadersTasks = ["Find Death Star plans", "Fix the gap in Death Star", "Find Obi Wan", "Stormtrooper's shooting lessons", "Eradicate wookies", "Family therapy with Leia and Luke", "Seize Millennium Falcon", "Find Yoda", "Have Solo arrested for speeding", "Give Lando a bigger brive"];
 		setTasks(vadersTasks);
 	}
 
